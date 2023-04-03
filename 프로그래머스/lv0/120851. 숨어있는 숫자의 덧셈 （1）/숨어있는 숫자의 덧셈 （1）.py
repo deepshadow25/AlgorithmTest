@@ -1,0 +1,1 @@
+solution = lambda my_string:sum([int(my_string[i]) for i in range(len(my_string)) if my_string[i].isdigit() is True])
