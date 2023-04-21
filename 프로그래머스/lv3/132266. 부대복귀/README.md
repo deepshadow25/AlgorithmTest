@@ -1,4 +1,4 @@
-# [unrated] 부대복귀 - 132266 
+# [lv3] 부대복귀 - 132266 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132266) 
 
