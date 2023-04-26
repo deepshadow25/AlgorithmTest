@@ -1,0 +1,4 @@
+-- 코드를 입력하세요
+SELECT name, count(name) from animal_ins where name is NOT NULL
+group by name having count(name) > 1 order by name
+-- order by를 끝에 추가해야 정답처리가 됨. (왜?)
