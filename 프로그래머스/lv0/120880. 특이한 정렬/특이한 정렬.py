@@ -1,0 +1,1 @@
+solution = lambda numlist, n:sorted(numlist, key = lambda x : (abs(n-x), n-x))
