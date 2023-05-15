@@ -1,0 +1,1 @@
+solution = lambda strArr:[i for i in strArr if 'ad' not in i]
